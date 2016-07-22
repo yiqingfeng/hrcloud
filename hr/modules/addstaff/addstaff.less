@@ -1,0 +1,34 @@
+/* 新员工入职 */
+// mixin
+.float-left() {
+	display: block;
+	float: left;
+}
+
+.app-addstaff{
+	padding: 0 23px 0 22px;
+	// 面包屑
+	.addstaff-crumbs{
+		height: 50px;
+		overflow-y: hidden;
+		border-bottom: 1px solid #d9d9d9;
+		.crumbs-inner{
+			font-size: 16px;
+			line-height: 50px;
+		}
+		.back{
+			.float-left();
+			width: 17px;
+			height: 16px;
+			margin-top: 17px;
+			background-color: red;
+		}
+		.link,span{
+			.float-left();
+		}
+		.sprit{
+			width: 16px;
+			text-align: center;
+		}
+	}
+}

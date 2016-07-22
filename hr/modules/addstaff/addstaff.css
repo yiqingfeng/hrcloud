@@ -1,0 +1,30 @@
+/* 新员工入职 */
+.app-addstaff {
+  padding: 0 23px 0 22px;
+}
+.app-addstaff .addstaff-crumbs {
+  height: 50px;
+  overflow-y: hidden;
+  border-bottom: 1px solid #d9d9d9;
+}
+.app-addstaff .addstaff-crumbs .crumbs-inner {
+  font-size: 16px;
+  line-height: 50px;
+}
+.app-addstaff .addstaff-crumbs .back {
+  display: block;
+  float: left;
+  width: 17px;
+  height: 16px;
+  margin-top: 17px;
+  background-color: red;
+}
+.app-addstaff .addstaff-crumbs .link,
+.app-addstaff .addstaff-crumbs span {
+  display: block;
+  float: left;
+}
+.app-addstaff .addstaff-crumbs .sprit {
+  width: 16px;
+  text-align: center;
+}

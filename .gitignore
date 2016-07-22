@@ -1,0 +1,10 @@
+node_modules
+dev
+build
+.DS_Store
+*.zip
+*.rar
+dist
+.idea
+hr/assets/style/*.less
+grunt-tasks/Gruntfile.js
