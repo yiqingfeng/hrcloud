@@ -1,0 +1,13 @@
+#depHead ul li{
+    font-family:STHeitiSC-Medium;
+    font-size:13px;
+    color:#6076a1;
+    text-align:left;
+    /*margin: 0px;*/
+   /* height: 14px;*/
+}
+
+.jstree-anchor:active {
+    text-decoration: none;
+    color: #d29c2f;
+}

@@ -1,19 +1,20 @@
 /* 全局结构 */
 body {
   background-color: #e3e4e9;
-  font-family: PingFangSC-Regular;
+  /* font-family: 'PingFangSC-Regular'; */
+  font-family: 'Microsoft YaHei', 'Hiragino Sans GB';
 }
 .app-g-bd {
   width: 1160px;
   margin: 0 auto;
   margin-top: 15px;
 }
-#g-silder {
+#g-side {
   float: left;
   width: 220px;
   background-color: #ffffff;
 }
-#g-silder .wraper {
+#g-side .wraper {
   min-height: 727px;
   box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.2);
   border-radius: 2px;

@@ -1,6 +1,10 @@
 /* third part lib */
 @import url(../../lib/bootstrap-3.3.5-dist/css/bootstrap.min.css);
+/* @import url(../../lib/js/jquery/dropkick/dropkick.css); */
+
+@import url(../../lib/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css);
 
 @import url(global.css);
+@import url(department.css);
 
 @import url(../../modules/addstaff/addstaff.css);
